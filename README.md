@@ -1,7 +1,7 @@
 ## Lane Attire Documentation
 
 ### Introduction
-Hello Everyone! This documentation provides an overview of Lane Attire, an individual project developed during Construct Week at Masai School. Lane Attire is a clone of LimeRoad.com, an E-commerce website that offers a wide range of fashion clothing products and accessories. The project was completed within a span of 5 days, and it showcases the usage of various technologies, including JavaScript, HTML, CSS, and the React framework. Additionally, libraries such as react-router-dom and Chakra UI were utilized to enhance the functionality and aesthetics of the site.
+Hello Everyone! This documentation provides an overview of Lane Attire, an individual project developed during Construct Week at Masai School. Lane Attire is a clone of LimeRoad.com, an e-commerce website that offers a wide range of fashion clothing products and accessories. The project was completed within a span of 5 days, and it showcases the usage of various technologies, including JavaScript, HTML, CSS, and the  React library. Additionally, to improve the site's functionality and aesthetics..
 
 ### Project Details
 - Project Name: Lane Attire
@@ -19,30 +19,30 @@ Hello Everyone! This documentation provides an overview of Lane Attire, an indiv
    - Users can browse through various categories and view detailed information about each product.
 
 3. Cart Functionality:
-   - Users can add products to their shopping cart for a convenient shopping experience.
+   - Users can add products to their cart for a convenient experience.
    - The cart displays a summary of the selected items, including the total price.
 
 4. Search and Filtering:
-   - A search functionality enables users to find specific products based on keywords or product names.
+   - Enables users to find products using keywords or product names.
    - Filtering options allow users to refine their search results based on categories, sizes, colors, and other attributes.
 
 5. User Reviews and Ratings:
    - Users can leave reviews and ratings for products they have purchased.
-   - These reviews and ratings help other users make informed decisions when considering a product.
+   - These reviews and ratings help other users make informed purchase decisions.
 
 ### Tech Stack and Libraries
 1. JavaScript: The project is built using JavaScript for implementing the interactive functionalities and logic.
 2. HTML: HTML is used for creating the structure and content of the webpages.
 3. CSS: CSS is responsible for styling and designing the user interface of Lane Attire.
 4. React: The React framework is utilized to build reusable components and efficiently manage the application's state.
-5. React Router DOM: This library enables client-side routing and navigation within the Lane Attire application.
+5. React Router DOM: This library enables client-side routing and navigation.
 6. Chakra UI: Chakra UI is a library used for creating accessible and customizable UI components.
 
 ### Project Preview
-To experience the actual Lane Attire website, please click on the link below:
+Visit the Lane Attire website using the link below:
 🌐 [Lane Attire Website Preview](https://idyllic-hummingbird-265d79.netlify.app/)
 
-### Snapshots
+### Website Snapshots
 Here are some snapshots of the Lane Attire website for you to preview:
 
 ![Screenshot (1413)](https://user-images.githubusercontent.com/119413823/229427936-93c46f09-1f26-4670-8143-549fd424f9d8.png)
